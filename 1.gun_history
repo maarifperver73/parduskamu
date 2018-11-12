@@ -1,0 +1,42 @@
+ 1  sudo apt-get update
+    2  sudo nano /etc/sudores
+    3  sudo su
+    4  su root 
+    5  sudo su
+    6  sudo apt update
+    7  sudo nano /etc/apt/sources.list
+    8  sudo apt update
+    9  sudo apt upgrade
+   10  pardus-store 
+   11  sudo pardus-store 
+   12  sudo blkid
+   13  sudo mkdir /media/Depo
+   14  sudo nano /etc/fstab 
+   15  sudo mount -a
+   16  sudo nano /etc/fstab 
+   17  ls
+   18  sudo su
+   19  sudo blkid
+   20  sudo mkdir /home/mebkurumsal/Masaüstü/Depo
+   21  sudo nano /etc/fstab 
+   22  sudo mount -a
+   23  sudo su
+   
+      //buradan sonrası kendi hard diskim le ilgili(veri kurtarma )//
+   24  sudo apt install testdisk
+   25  sudo testdisk
+   26  sudo apt-get install extundelete 
+   27  blkid
+   28  sudo blkid
+   29  sudo extundelete /dev/sda4 --restore-all
+   30  photorec
+   31  photorec 
+   32  ls
+   33  cd Depo/
+   34  ls
+   35  sudo apt install nautilus
+   36  sudo nautilus
+   37  sudo su
+   38  sudo photorec 
+   39  sudo testdisk 
+   40  history >> /home/mebkurumsal/Masaüstü/yapılanlar/09.11.2018.txt
