@@ -1,0 +1,38 @@
+kurulum gerçekleştirildi. pardus xfce 17.4
+100 GB lık bir hard diske kurulum yapıldı.
+windowsun yanına olacak şekilde ayarlandı.
+
+kullanıcı tam ismi: Meb Kurumsal
+terminal kullanıcı adı:mebkurumsal
+parola:
+
+root parolası:
+
+
+sistem kurulumundan sonra update & upgrade işlemleri yapılmaya çalışıldı.
+mebkurumsal sudoers klasörü içinde olmadığı tespit edildi.
+
+sertifika.meb.gov.tr adresine girilerek firefox için sertifika kurulumu yapıldı.
+bilgisayar yeniden başlatılarak sertifaka yüklenmesi tamlatıldı.(İşlem başarılı)
+mebkurumsal kişisi sudoers klasörüne eklendi.
+
+
+sistem kurulumundan sonra update & upgrade işlemleri yapılmaya 
+çalışıldı. pardus depo adreslerinin güncellenmesi gerektiği fark edildi.
+
+/etc/apt altındaki sources.list dosyasına 
+resmi pardus paket deposu adresleri eklendi.
+güncellme ve yükslete komutu çalıştırıldı sistemin güncel olduğu teyit edildi.
+
+pardus mağaza simgesi masaüstüne eklendi 
+
+
+yerel disk d yi açarken her seferinde root parolası istemesi iptal edildi.
+
+Masaüstüne Depo isminde bir dizin(Klasör)oluşturuldu.
+fstab ile diskin UUID numarası bu dizine bağlandı 
+artık masaüstünde Depo isimli dizine tıklanınca yahut da 
+Yerel disk d nin kendisine tıklanınca parola istemeden açılıyor.
+
+masaüstü ayarları -> Simgeler -> Ön tanımlı Simge seti-> Dosya sistemi tiki kaldırıldı
+çıkarılabilir aygıtlarda diskler ve sürüceleri tiki kaldırıldı
