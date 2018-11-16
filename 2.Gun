@@ -1,0 +1,60 @@
+pardus mağaza birşeyler rasy gitmedi "internet bağlantınız kontrol edin hatası
+veriyor.
+
+sudo apt-get update && sudo apt-get upgrade komutu çalıştırıldı.
+
+sorun devam ediyor.
+meb hattından kaynaklandığı düşünülerek kendi mobil hattımı usb ile bağlattım
+sonuç bağlantı kuruldu. Meb hattı banlanmış olabilir.!!
+
+firefox varsayılan arama motoru google.com.tr yapıldı.
+
+pardus store autoremove yapılıp tekrar terminal yardımıyla kuruldu.
+
+sonuç değişmedi.
+
+
+firfox kullanıcı özelleştirmeleri yapıldı.
+-yeni sekme tercihlerinde Öne çıkanlar ve duyurular pasifleştirildi.
+sık kullanılan siteler iki satır olarak seçildi.
+
+pardus mağaza simgesi masaüstüne eklendi
+İnternet tarayıcı simgesi masaüstüne eklendi
+thunderbird simgesi masaüstüne eklendi
+
+thunderbir te meb.k12.tr hesabıyla oturum açıldı. aşağıdaki link yardımıyla
+(https://canakkale.meb.gov.tr/meb_iys_dosyalar/2015_10/21115540_mozillathunderbirdepostakurulumu.pdf) teşekkürler
+
+sağ alt taki saat simgesine tarih de eklendi 12 Kasım 2018 biçiminde
+saat yazı tipi boyutu 12 olarak 
+tarih yazı tipi boyut 11 olarak seçildi.
+
+Uç birim öykünücüsü  yardımıyla chromium kuruldu
+chromium için meb sertifikası yüklendi.
+
+e okulda rapor alırken java eksikliği görüldü
+hem chromium hem de firefoxta dosya açılmadı.
+e okul üzerindeki alternatifler ya da karşılaşılan sorunlar
+için exe uzantılı çözümler var.e okul sitesinin önerdiği
+
+etebeşir.com adlı siteden...(http://www.etebesir.com/yazi/pardus-dys-nasil-kurulur-ve-calisir-148-1.html)
+host dosyasına aşağıdaki düzenlemeler yapıldı
+
+95.0.196.81    dys.meb.gov.tr
+
+95.0.196.79    dysdownload.meb.gov.tr
+
+95.0.196.80    dysegitim.meb.gov.tr
+
+java ve uyap editör yüklendi 11başamanın tümü gerçekleştirildi.
+
+
+daha sonra makalenin devamı
+(http://www.etebesir.com/yazi/pardusda-21-mart-2017-guncellemesi-sonrasi-dys-nasil-calisir-dys-mebjnlp-dosyasini-calistirma-149-1.html)
+ takip edildi.
+
+ilk üç aşamayı yapmaya gerek yok kurulması istene paketler zaten mevcut imiş.
+
+firefox eklentilerden Java Redirector eklendi
+
+
