@@ -1,0 +1,17 @@
+   41  sudo apt-get update && sudo apt-get upgrade
+   42  sudo rm -rf /etc/apt/sources.list.d/*
+   43  sudo apt update
+   44  sudo apt upgrade
+   45  sudo su
+   46  sudo apt-get install pardus-store
+   47  sudo apt update
+   48  sudo apt upgrade
+   49  pardus-store 
+   50  sudo pardus-store 
+   51  sudo apt install chromium
+   52  sudo apt install uy
+   53  ls -all
+   54  sudo nano /etc/hosts
+   55  sudo dpkg --install uyap-editor.deb 
+   56  sudo su
+   57  man history 
