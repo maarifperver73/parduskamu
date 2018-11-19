@@ -1,0 +1,18 @@
+   58  sudo apt install unrar-free 
+   59  unrar e 362639493.rar 
+   60  sudo apt install unrar
+   61  unrar e 362639493.rar 
+   62  sudo apt autoremove unrar-free 
+   63  unrar-nonfree 362639493.rar 
+   64  sudo apt autoremove unrar-nonfree
+   65  sudo apt install wine
+   66  sudo apt update
+   67  sudo apt upgrate
+   68  sudo apt upgrade
+   69  wine Flash_Hazirla.exe 
+   70  ls
+   71  sudo apt install gparted 
+   72  ls
+   73  ls -l
+   74  ls
+   75  ls foto/
