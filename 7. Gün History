@@ -1,0 +1,26 @@
+  217  sudo apt install boxes
+  218  sudo apt update 
+  219  sudo apt upgrade
+  220  boxes 
+  221  sudo apt install boxes
+  222  sudo boxes 
+  223  boxes
+  224  sudo su
+  225  sudo apt autoremove boxes 
+  226  sudo apt install boxes 
+  227  boxes 
+  228  sudo apt autoremove boxes 
+  229  sudo apt install gnome-boxes 
+  230  gnome-boxes 
+  231  sudo apt autoremove gnome-boxes 
+  232  sudo apt install ttf-mscorefonts-installer 
+  233  sudo apt-get install --reinstall ttf-mscorefonts-installer
+  234  sudo apt update
+  235  sudo apt yupgrade
+  236  sudo apt upgrade
+  237  systemctl restart now
+  238  systemctl shutdown  now
+  239  exit
+  240  sudo su
+  241  xkill
+  242  sudo apt install kazam 
