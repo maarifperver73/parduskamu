@@ -1,0 +1,43 @@
+
+  259  sudo apt update
+  260  apt list --upgradable 
+  261  sudo apt upgrade
+  262  ip addr
+  263  sudo apt-cache search clam
+  264  sudo apt-cache search clamAV
+  265  sudo apt-cache search git
+  266  sudo apt-cache search git-
+  267  sudo apt-cache search git-hu
+  268  sudo su
+  269  sudo apt install mtools 
+  270  man e2label 
+  271  fdisk -l
+  272  sudo fdisk -l
+  273  sudo apt install ntfsprogs
+  274  sudo ntfslabel /dev/sda4 YerelDiskD
+  275  umount /dev/sda4 
+  276  sudo umount /dev/sda4
+  277  sudo ntfslabel /dev/sda4 YerelDiskD
+  278  mount /dev/sda4
+  279  sudo fdisk -l
+  280  sudo move İndirilenler/ /home/mebkurumsal/Masaüstü/
+  281  sudo mv İndirilenler/ /home/mebkurumsal/Masaüstü/
+  282  sudo fdisk -l
+  283  sudo umount /dev/sda2
+  284  sudo ntfslabel /dev/sda2 YerelDiskC
+  285  sudo ntfslabel /dev/sda2 Yerel\ Disk\ C
+  286  sudo umount /dev/sda2
+  287  sudo ntfslabel /dev/sda2 Yerel\ Disk\ C
+  288  mount /dev/sda2
+  289  sudo apt install sushi
+  290  sudo apt update
+  291  sudo apt upgrade
+  292  sushi 
+  293  sudo apt install gdebi
+  294  sudo apt install sox
+  295  sox
+  296  sudo su
+  297  mv login.wav muzik.wav
+  298  sudo mv login.wav muzik.wav
+  299  history 21.11.2018History
+  300  history > 21.11.2018History
