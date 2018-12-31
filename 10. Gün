@@ -1,0 +1,27 @@
+açılışta intro çaldırma çalışmasına devam edildi.
+https://forum.pardus.org.tr/t/pardusta-sistem-baslangic-programlarini-duzenlemek/3971
+
+sitesinden de yardım alındı.
+
+pardus-imagewritter paketi yüklendi
+
+bugün yapılan değişikliklerle sistem açılırken müzik çalıştırılması sağlandı.
+
+muzik ve muzik.wav dosyaları hem /usr/share/moral dizininin altında
+hem de /etc/init.d/ altındaki muzik dosyası chmod la 777 olarak ayralandı
+netik yazılırken ki müzik çaldırma komutundaki çift tırnaklar kaldırıldı
+
+sushi tarayıcısının yüklenmesine devam edildi
+bazı bağımlılıkları ve kütüphane gereksinimleri var
+
+mozillanın java eklentisini kullanabilmek için 
+https://ftp.mozilla.org/pub/firefox/releases/47.0.1/linux-i686/tr/ adresinden 47.0.1 indirildi.
+Meb dys için
+https://forum.pardus.org.tr/t/tar-xz-tar-gz-gibi-dosyalarin-kurulumu/3608  forumdan yararlanıldı
+
+https://forum.linuxmint.net.tr/index.php?topic=8427.0 şua dresteki adımları uyguladım.
+firefox kuruldu. meb sertifikası yüklendi
+sudo apt install default-jdk
+işleminden sonra firefpx üzerinden java çalıştırıldı. e okul başarılı bir şekilde açıldı. raporlar vb.
+
+virtualbox kuruldu
