@@ -1,0 +1,30 @@
+
+  430  touch 21.11.2018
+  431  touch 23.11.2018
+  432  sudo su
+  433  cd ~
+  434  ls
+  435  cd Masaüstü/
+  436  ls
+  437  cd myiconset/
+  438  ls
+  439  sudo su
+  440  ssh 
+  441  sudo apt install ssh
+  442  sudo apt-cache search redo
+  443  sudo apt-cache search ghost
+  444  sudo apt-cache search image
+  445  sudo apt-cache search fog
+  446  sudo apt-cache search ghost
+  447  sudo apt install akis
+  448  akis
+  449  ssh ogradasi@192.168.1.112
+  450  ssh root@192.168.1.112
+  451  ssh ogrodasi@192.168.1.112
+  452  xit
+  453  exit
+  454  ssh ogrodasi@192.168.1.112
+  455  sudo apt install anydesk
+  456  sudo apt install lider
+  457  sudo apt install lider-server
+  458  history > 23.11.2018History
