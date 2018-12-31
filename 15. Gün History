@@ -1,0 +1,50 @@
+ 516  apt-cache search 
+  517  apt-cache search lan
+  518  sudo apt install veyon 
+  519  apt-cache search lan | grep mesenger
+  520  apt-cache search lan | grep mesen
+  521  apt-cache search lan | grep me
+  522  apt-cache search lan | grep mes
+  523  apt-cache search bee
+  524  apt-cache search beebe
+  525  Bu komut 64 bit mimarilerde 32bit -i386- mimarideki paketle
+  526  sudo apt install libgstreamer-plugins-base0
+  527  sudo apt-get install libgstreamer-plugins-base0.10-0:i386
+  528  dpkg --add-architecture i386
+  529  sudo dpkg --add-architecture i386
+  530  sudo apt-get install libgstreamer-plugins-base0.10-0:i386
+  531  sudo apt install libgstreamer-plugins-base1.0-0 
+  532  sudo apt --fix-broken-install
+  533  apt --fix-broken
+  534  sudo chmod 777 -R beebeep-5.4.2-qt4-amd64/
+  535  sudo apt install libqt4-dev libqt4-xml libxcb-screensaver0 libavahi-compat-libdnssd1 libphonon4 libhunspell-dev phonon-backend-gstreamer
+  536  sudo apt update
+  537  sudo apt install libqt5multimedia
+  538  sudo apt install libqt5multimedia5
+  539  ./beebeep
+  540  /home/mebkurumsal/İndirilenler/beebeep-5.4.2-qt4-amd64/bee
+  541  /home/mebkurumsal/İndirilenler/beebeep-5.4.2-qt4-amd64/beebeep
+  542  sudo apt update
+  543  sudo apt upgrade
+  544  sudo apt update
+  545  sudo apt upgrade
+  546  sudo apt update
+  547  sudo apt upgrade
+  548  ip addr
+  549  sudo apt install uget
+  550  uget
+  551  uget-gtk
+  552  ip addr
+  553  ipp addr
+  554  ip addrlabel 
+  555  ip address 
+  556  ip monitor 
+  557  ip maddress 
+  558  ip addr eth0 192.168.1.173 255.255.255.0
+  559  eth0 192.168.1.173 255.255.255.0
+  560  sudo nano /etc/netconfig
+  561  nm-connection-editor 
+  562  ipp addr
+  563  ip addr
+  564  nm-connection-editor 
+  565  ip addr
