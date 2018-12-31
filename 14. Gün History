@@ -1,0 +1,12 @@
+
+  505  lspci
+  506  lspci -nnk
+  507  lspci -nnk | grep iA2
+  508  lspci -nnk | grep iA2 net
+  509  lspci -nnk | grep  net
+  510  ip addr
+  511  sudo apt update 
+  512  apt list --upgradable 
+  513  sudo apt upgrade 
+  514  sudo apt update 
+  515  history > 28.11.2018History
