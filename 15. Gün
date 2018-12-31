@@ -1,0 +1,25 @@
+lan mesenger tarzı uygulamalra bakıldı
+
+sudo apt-get install libgstreamer-plugins-base0.10-0:i386
+Bu komut 64 bit mimarilerde 32bit -i386- mimarideki paketleri kurabilecek şekilde ayarlıyor.)
+
+https://sourceforge.net/projects/beebeep/files/?source=navbar
+
+adresindeki beeBeep indirildi
+
+https://forum.pardus.org.tr/t/lan-messenger-kurulum-sorunu/4188/15
+gönderi yardımıyla synaptic ile debian deposu sisteme eklendi
+
+beebeep uygulamasu yüklendi
+masaüstüne başlatıcı eklendi başlatıcının komut satırına
+/home/mebkurumsal/İndirilenler/beebeep-5.4.2-qt4-amd64/beebeep
+girildi
+çalışıyor
+
+
+daha sonra indirilen lan mesenger .deb paketi gdebi ile yüklendi
+uygulamalr listesinde lan mesenger simgesi var masaüstüne ekl denildi. fakat açılmıyor 
+
+beebeep sorunsuz çalışıoyor şimdilik
+
+uget indirildi terminal yardımyla
