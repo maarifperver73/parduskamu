@@ -1,0 +1,17 @@
+   
+  243  ipaddr
+  244  ip addr
+  245  sudo nano /etc/network/interfaces
+  246  sudo /etc/init.d/networking restart 
+  247  sudo chmod -R 777 Ortak/
+  248  sudo nano /etc/samba/smb.conf 
+  249  sudo /etc/init.d/samba restart 
+  250  sudo apt install thunar gvfs gvfs-backends gvfs-bin
+  251  sudo apt update
+  252  sudo apt upgrade
+  253  history > 19.11.2019History
+  254  sudo apt-cache search dhcp
+  255  sudo apt install painintheapt 
+  256  painintheapt 
+  257  sudo apt install pinta 
+  258  history > 20.11.2018History
