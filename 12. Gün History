@@ -1,0 +1,37 @@
+  459  sudo apt install chromium-l10n 
+  460  sudo wget http://repo.liderahenk.org/liderahenk-archive-keyring.asc && sudo apt-key add liderahenk-archive-keyring.asc &&  rm liderahenk-archive-keyring.asc
+  461  sudo printf  "deb [arch=amd64] http://repo.liderahenk.org/liderahenk stable main" | sudo tee -a /etc/apt/sources.list
+  462  sudo apt update
+  463  apt list --upgradable 
+  464  sudo apt upgrade
+  465  sudo apt install mariadb-server -y
+  466  sudo mysql -uroot -pSIFRE -e "CREATE DATABASE liderdb DEFAULT CHARACTER SET utf8 DEFAULT COLLATE utf8_general_ci"
+  467  sudo mysql -uroot -pSIFRE
+  468  sudo mysql -uroot -p SIFRE
+  469  sudo mysql
+  470  sudo mysql -uroot
+  471  sudo mysql -uroot -pSIFRE
+  472  sudo systemctl restart mysql.service
+  473  sudo apt install slapd ldap-utils -y
+  474  sudo dpkg-reconfigure slapd
+  475  sudo ldapsearch -H ldap://localhost -x -LLL -b "dc=liderahenk,dc=org" "(objectClass=simpleSecurityObject)"
+  476  sudo slappasswd
+  477  sudo systemctl stop slapd.service 
+  478  sudo systemctl start slapd
+  479  sudo wget https://raw.githubusercontent.com/Pardus-LiderAhenk/lider-ahenk-installer/master/src/conf/liderahenk.ldif && sudo cp liderahenk.ldif /tmp
+  480  sudo ldapadd -x -f /tmp/liderahenk.Idif -D "cn=admin, cn=config" -w $config_admin_pwd
+  481  sudo apt install lider-server 
+  482  sudo apt autoremove ldap-utils 
+  483  sudo apt autoremove mariadb-*
+  484  sudo apt install lider-server 
+  485  sudo apt install lider-console 
+  486  lider-console 
+  487  sudo cp
+  488  sudo thunar
+  489  sudo su
+  490  sudo apt-cache search screenkey
+  491  sudo apt install scratch 
+  492  ssh ogrodasi@192.168.42.68
+  493  ssh ogrodasi@192.168.42.78
+  494  ssh ogrodasi@192.168.42.178
+  495  history > 26.11.2018History
