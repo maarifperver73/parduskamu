@@ -1,0 +1,32 @@
+
+
+Masaüstüne İnternet tarayıcısının simgesi firefox olarak değiştirildi.
+
+firefox sıkkullanılanlar çubuğuna e-devlet,mebbis,e-okul,ziraatbankası,eba.gov.tr,okul internet adresi eklendi
+
+iconarchive.com sitesinden word excel ve ppt simgeleri indirildi /usr/share/pixmap dizinine eklendi
+
+Libre Office iconları değiştirlidi.masaüstüne libre officenin ms office ikonlu simgeleri eklendi.
+pdf görüntüleyicicini simgesi pardusta hazır gelen kırmızı pdf simgesi seçildi
+
+başalt menüsü->> LibreOffice Writter Sağ tık->> Uygulama Düzenle->>
+Simge (Çift tık)-->Simgeyi şuradan seç->> Kalıp dosyaları->>
+(Önceden /usr/share/pixmap altına myicon diye dizin oluşturmuştum) -->
+myicon dizini içindeki önceden i,ndirdiğim .png uzantılı resmi seçtim.
+--> Tamam --> Kaydet {simge değişti} herhangi bir uygulama için bunları yapabilirsiniz.
+
+Masaüstü Paneline Catfish Dosya Arama programının,hesap makinesinin libreoffice writter,calc ce impress simgesi eklendi.
+chromium uygulamasının simgesi chromun renkli simgesi olarak değiştirldi.
+
+
+Desktop Dimmer kullanılmaya başlandı.
+
+arama kısmına desk yazınca geliyor. ilgili ayarlamaları yapıp ekranın fazla parlaklığını giderebilirsiniz.
+
+Masaüstüne mebkurumsalın dosyalarını gösterecek bir dosya yöneticisi eklendi.
+Kullanım alışkanlıkları göz önüne alınarak. Dosya yöneticisi simgesi myComputer simgesi olacak şekilde değiştirlidi
+İsmi Bilgisayarım olarak değiştirlid.
+
+Masaüsütne Flash disk göster adlı bir Url bağlantısı eklendi
+bağlantısına /media/mebkurumsal yazıldı
+Flash disk simgesi  indirildi ve url simgesi olarak ayarlandı
