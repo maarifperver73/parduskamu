@@ -1,0 +1,12 @@
+  566  history| grep dd
+  567  blkid
+  568  sudo blkid
+  569  history| grep dd if
+  570  history| grep dd 
+  571  sudo blkid
+  572  sudo dd if=xxx.iso of=/dev/sdc1 bs=4M
+  573  history > 29.11.2018History
+  574  ip addr
+  575  sudo blkid
+  576  sudo dd if=xxx.iso of=/dev/sdc1 bs=4M
+  577  history > 30.11.2018History
