@@ -1,0 +1,74 @@
+  128  history > 14.11.2018History
+  129  sudo apt install geoclue-2.0 
+  130  apt --fix-broken install geoclue-2.0 
+  131  sudo apt --fix-broken install geoclue-2.0 
+  132  sudo apt --fix-broken install 
+  133  sudo apt --fix-broken install geoclue-2.0 
+  134  sudo apt install geoclue-2.0 
+  135  redshift-gtk 
+  136  xkill
+  137  sudo apt install samba
+  138  apt update
+  139  sudo apt update
+  140  sudo apt install samba
+  141  sudo apt update
+  142  sudo apt install ssh
+  143  sudo apt update
+  144  sudo nano /etc/apt/sources.list
+  145  sudo apt update
+  146  sudo apt upgrade
+  147  sudo nano /etc/apt/sources.list
+  148  sud nano /etc/apt/sources.list
+  149  sudo nano /etc/apt/sources.list
+  150  sudo apt-grt update
+  151  sudo apt-get update
+  152  sudo apt-get upgrade
+  153  sudo apt install smb4k 
+  154  sudo apt-get update
+  155  sudo apt-get upgrade
+  156  pwd
+  157  sudo chmod 777 -R Okul/
+  158  sudo nano /etc/samba/smb.conf 
+  159  sudo /etc/init.d/samba restart 
+  160  sudo apt install samba
+  161  cd
+  162  samba-tool mebkurumsal pardus
+  163  ip addr
+  164  cd 
+  165  cd /etc/network/
+  166  ls
+  167  cat interfaces
+  168  sudo nano interfaces
+  169  sudo systemctl networking restart 
+  170  sudo systemctl network restart 
+  171  sudo systemctl networking restart 
+  172  sudo su
+  173  sudo chmod -R 775 Ortak/
+  174  ls -r
+  175  ls
+  176  ls -ln
+  177  sudo chmod -R 777 Ortak/
+  178  ls -ln
+  179  sudo apt install nfs-common 
+  180  sudo apt install nfs-kernel-server 
+  181  sudo /etc/init.d/nfs-common  start
+  182  sudo /etc/init.d/nfs-kernel-server start
+  183  sudo /etc/init.d/nfs-kernel-server restart
+  184  sudo /etc/samba/tls/
+  185  cd /etc/samba/
+  186  ls
+  187  cat smb.conf 
+  188  sudo nano smb.conf 
+  189  service samba restart 
+  190  service samba start
+  191  ip addr
+  192  ls
+  193  ls -ln
+  194  whoami
+  195  pwd
+  196  cp /home/mebkurumsal/Masaüstü/Windows-Start-Orb.png  
+  197  cp /home/mebkurumsal/Masaüstü/Windows-Start-Orb.png  win
+  198  sudo cp /home/mebkurumsal/Masaüstü/Windows-Start-Orb.png  win-start
+  199  ls win-start 
+  200  cat win-start 
+  201  history > 15.11.2018_History
