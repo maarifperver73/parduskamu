@@ -1,0 +1,10 @@
+wishker menüsüne bilgisayarı kağpatma düğmesi çıkış eklendi
+ismi "Bilgisyarı kapat" olarak değiştirildi.
+uygulama simgesi power buton olarak değiştirildi.
+
+alt panel üzerinde sağ tık->> panel ->> panel tercihleri ->> ölçüler satır boyutu 38 olarak ayarlandı
+
+sudo apt-get install ttf-mscorefonts-installer 
+komutu ile librepffice e times new roman yazı font eklenmek istendi.
+
+kazam paketi yüklendi
