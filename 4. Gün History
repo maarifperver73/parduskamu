@@ -1,0 +1,52 @@
+   76  apt-cache search screen
+   77  sudo xflock4 
+   78  sudo su
+   79  sudo apt install fluxbox 
+   80  fluxbox
+   81  sudo fluxbox
+   82  sudo su
+   83  sudo apt install redshift
+   84  r
+   85  redshift 
+   86  sudo redshift 
+   87  sudo apt install fluxbox 
+   88  fluxbox
+   89  sudo apt install redshift-gtk 
+   90  sudo add-apt-repository ppa:nathan-renniewaldock/flux
+   91  sudo apt update
+   92  sudo apt remove fluxbox 
+   93  sudo add-apt-repository -r ppa:nathan-renniewaldock/flux
+   94  redshift-gtk 
+   95  sudo apt install geoclue-2.0 
+   96  redshift
+   97  sudo apt install redshift
+   98  sudo apt install redshift-gtk 
+   99  sudo apt install gdebi
+  100  gdebi
+  101  dpkg --install desktop-dimmer-4.0.4-amd64.deb 
+  102  sudo dpkg --install desktop-dimmer-4.0.4-amd64.deb 
+  103  dpkg --ignore-depends=
+  104  dpkg-deb --extract desktop-dimmer-4.0.4-amd64.deb 
+  105  sudo apt install wine
+  106  apt --fix-broken install wine
+  107  sudo apt --fix-broken install wine
+  108  sudo apt install libappindicator
+  109  sudo apt install libappindicator1
+  110  sudo apt install libappindicator3-0.1-cil-dev 
+  111  cd Masaüstü/
+  112  tar -xvzf xflux64.tgz 
+  113  rm -rf xflux64.tgz 
+  114  sudo cp xflux /usr/bin/
+  115  sudo chmod 755 /usr/bin/xflux 
+  116  xflux 
+  117  sudo xflux -l 40.7143528
+  118  xflux 
+  119  xflux -k 3400
+  120  xfsudo xflux -k 3400
+  121  sudo xflux -k 3400
+  122  sudo xflux -k 3200
+  123  sudo xflux -l 40 , -g -74
+  124  sudo xflux -l 40 , -g 74
+  125  sudo xflux -l 37 , -g 42
+  126  xflux
+  127  xflux -l 37.34395251 , -g 42.19893746 
