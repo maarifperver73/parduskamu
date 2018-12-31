@@ -1,0 +1,43 @@
+update upgrade yapıldı 5 paket güncellendi
+
+ntfslabel ile 238 gb hacmi yerine diske "yereldiskD" Adı verildi
+
+isim verilecek disk önce umount edildi
+sonra isimlendirildi
+sonra tekrar mount edildi.
+Masaüstündeki Depo dizinine tıklayınca D Diski otomatik açılıyor.
+ama aygıtlardan tıklanınca root parolası istiyor.
+
+Önemli Dizinler Gezginde çabuk görülsün diye 
+Dizine Sağtıkla-->Gönder-->Yan Pencere Gözü(kısayol Oluştur)
+
+Chromium da simge durumunda küçült butonu yoktu.
+Chromium--> Ayarlar(Settings)-->sol üst köşedeki üç yatay çizgi
+-->appearance(Görünüm)-->Sistemin başlık çubuğunu ve kenarlıklarını kullan
+(use system title bar and borders) seçeneği seçildi.
+Chromium pencere görünümü ayarlandı
+
+Masaüstüne İndirilenler diye kısayol oluşturuldu.
+İsim İndirilenler
+Yorum: İndirdiğiniz dosyalar burada saklanır.
+bağlantı: /home/mebkurumsal/İndirilenler
+
+İçinde Windows kurulu disk parçasındaki tüm dosyaları sildim
+daha sonra ona da YerelDiskC ismi verdim
+
+isim verilecek disk önce umount edildi
+sonra isimlendirildi
+sonra tekrar mount edildi.
+PArola isteme ekranında sağ üst köşedeki cin ali
+simgesine tıklanarak büyük yazı fontu seçildi.
+
+
+sushi paketi yüklendi
+
+sox paketi yüklendi
+https://gnulinuxfree.blogspot.com/2017/09/sistem-giris-muzigi-yapmak.html
+adresi yardımıyla sistem giriş müziği ayarlandı.
+
+https://sushib.me/dl/sushi-browser_0.22.0_amd64.deb
+şu adresteki sushi tarayıcısı indirildi.
+gdebi paket yükleyicisi ile yüklendi
