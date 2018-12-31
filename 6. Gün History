@@ -1,0 +1,15 @@
+  202  sudo su
+  203  sudo chmod -R 777 Geçici/
+  204  sudo nano /etc/samba/smb.conf 
+  205  sudo su
+  206  fdik
+  207  fdisk
+  208  fdisk -l
+  209  sudo fdisk -l
+  210  df -humanity
+  211  df -h
+  212  cat hostname 
+  213  cat gunzip 
+  214  cd myiconset/
+  215  sudo su
+  216  history > 16.11.2018History
