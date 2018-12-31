@@ -1,0 +1,129 @@
+ 301  sudo su
+  302  sudo apt install pardus-imagewriter
+  303  sudo apt install libcanberra0
+  304  ls -ln
+  305  ls -lnr
+  306  cd /home/mebkurumsal/.config/autostart/
+  307  ls
+  308  cat Açılış\ İntrosu.desktop 
+  309  touch deneme
+  310  sudo nano deneme
+  311  cd /home/mebkurumsal/
+  312  ls
+  313  mkdir deneme
+  314  cd deneme/
+  315  cd /home/mebkurumsal/.config/autostart/
+  316  ls
+  317  rm deneme deneme.save 
+  318  ls
+  319  touch intro
+  320  sudo nano intro 
+  321  ls
+  322  ls -ln
+  323  sudo chmod -R 777 intro 
+  324  ls -ln
+  325  intro
+  326  cat Açılış\ İntrosu.desktop 
+  327  cd /etc/init.d/
+  328  ls
+  329  sudo nano muzik
+  330  ls
+  331  cat cron
+  332  sudo nano muzik
+  333  play /usr/share/mugshot/
+  334  play /usr/share/mugshot/ui/
+  335  play /usr/share/moral/muzik.wav 
+  336  sudo nano muzik
+  337  cd /etc/init.d/
+  338  ls
+  339  cat muzik 
+  340  sudo nano muzik
+  341  ls
+  342  ls -ln
+  343  sudo chmod -R 777 muzik 
+  344  ls
+  345  cd /home/mebkurumsal/.config/autostart/
+  346  ls
+  347  rm intro 
+  348  ls
+  349  sudo chmod -R 777 Açılış\ İntrosu.desktop 
+  350  ls
+  351  cd /usr
+  352  cd share/
+  353  ls
+  354  cd moral/
+  355  ls
+  356  cat muzik
+  357  sudo nano muzik
+  358  sudo chmod muzik
+  359  sudo chmod -R 777  muzik
+  360  ls
+  361  cd /usr
+  362  cd share/
+  363  cd moral/
+  364  ls
+  365  ls -ln
+  366  sudo chmod -R 777 muzik.wav 
+  367  ls
+  368  sudo dpkg --install sushi-browser_0.22.0_amd64.deb 
+  369  sudo apt instal gawk git
+  370  sudo apt install gawk git
+  371  apt --fix-broken install 
+  372  sudo apt --fix-broken install 
+  373  sushi-browser 
+  374  sudo apt update
+  375  sudo apt upgrade
+  376  sudo apt install gawk git
+  377  sudo dpkg --install sushi-browser_0.22.0_amd64.deb 
+  378  sudo apt autoremove firefox-esr-l10n-tr 
+  379  sudo apt autoremove firefox-esr 
+  380  sudo apt update
+  381  sudo apt upgrade
+  382  sudo sh run-mozilla.sh 
+  383  sudo sh ./run-mozilla.sh 
+  384  sudo apt install  gcc make
+  385  sudo apt install zlib*
+  386  sudo dpkg --install firefox/
+  387  sudo sh ./run-mozilla.sh 
+  388  ./run-mozilla.sh 
+  389  sudo chmod -R 777 run-mozilla.sh 
+  390  ./run-mozilla.sh 
+  391  sudo chmod -R 777 firefox
+  392  ls -ln
+  393  cd firefox/
+  394  ls -lnr
+  395  ./run-mozilla.sh 
+  396  bash run-mozilla.sh 
+  397  cat run-mozilla.sh 
+  398  sudo apt update
+  399  sudo apt upgrade
+  400  cd ..
+  401  sudo mv firefox* /opt/firefox41
+  402  sudo mv firefox* /opt/firefox41/
+  403  mkdir /opt/firefox41
+  404  sudo mkdir /opt/firefox41
+  405  sudo mv firefox* /opt/firefox41/
+  406  cd /opt/firefox41/
+  407  sh ./firefox/run-mozilla.sh 
+  408  sudo mkdir /opt/old-firefox
+  409  cd ..
+  410  sudo cp /opt/firefox41/ /opt/old-firefox/
+  411  sudo cp -r /opt/firefox41/ /opt/old-firefox/
+  412  sudo mv /opt/firefox /opt/old-firefox/
+  413  ls
+  414  rm -rf firefox41/ old-firefox/
+  415  sudo rm -rf firefox41/ old-firefox/
+  416  ls
+  417  sudo thunar
+  418  sudo ln -s /opt/firefox/firefox /usr/bin/firefox
+  419  sudo ln -s /opt/firefox/browser/icons/mozicon128.png /usr/share/icons/hicolor/128x128/apps/firefox.png
+  420  sudo ln -s /opt/firefox/browser/icons/mozicon128.png /usr/share/pixmaps/firefox.png
+  421  gksu nano /usr/share/applications/firefox.desktop
+  422  gksu vi /usr/share/applications/firefox.desktop
+  423  gksu nano /usr/share/applications/firefox.desktop
+  424  sudo nano /usr/share/applications/firefox.desktop
+  425  java -version
+  426  sudo apt install default-jdk
+  427  sudo apt install virtualbox-5.1 
+  428  virtualbox 
+  429  history > 22.11.2018History
