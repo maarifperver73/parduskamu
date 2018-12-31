@@ -1,0 +1,9 @@
+ 496  sudo blkid
+  497  fdisk
+  498  fdisk -l
+  499  sudo fdisk -l
+  500  sudo dd if=Eta-0.2.0-S0-5.iso of=/dev/sdc1 bs=4M
+  501  sudo fdisk -l
+  502  blkid
+  503  ip addr
+  504  history > 27.11.2018History
