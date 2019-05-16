@@ -1,0 +1,20 @@
+https://forum.pardus.org.tr/t/pardus-icin-hazirladigim-simge-temasi-zpars/6507
+adresindeki icon paketi yüklendi
+
+DELL marka aio pc ye pardus 17.4 XFCE kurulumu yapıldı.
+DYS akis ve java yüklemeleri yapıldı. Pc sorunsuz çalıştı. Fakat
+HP Laserjet Pro MFP127fw marka yazıcıyı çalıştıramadık. hplip paketiuyumsuz herhalde
+
+hp Scanjet 4070 phptpsmart Scanner cihazını usb
+ile bağladık.
+Xsane cihazı herhangi bir yüklemeye gerek kalmadan cihazı tanıdı. Tarama yapıldı
+
+remoutemouse kurulumu yapılmaya çalışıldı
+https://www.remotemouse.net/
+
+mono-complete paketi yüklendi
+xdotool paketi yüklendi
+
+libappindicator0.1-cil-dev paketi yüklendi
+
+libappindicator3-0.1-cil-dev paketi yüklendi
