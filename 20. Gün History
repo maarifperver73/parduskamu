@@ -1,0 +1,60 @@
+    
+  639  sudo thunar
+  640  LS 
+  641  ls
+  642  sudo thunar
+  643  lsusb
+  644  fdisk -l
+  645  sudo fdisk -l
+  646  sudo mkfs.ntfs /dev/sdc
+  647  sudo mkfs.ntfs /dev/sdc1
+  648  sudo mkfs.ntfs /dev/sdc2
+  649  sudo mkfs.vfat /dev/sdc1
+  650  umount /dev/sdc
+  651  sudo mkfs.vfat /dev/sdc1
+  652  sudo mkfs.vfat /dev/sdc
+  653  sudo mkfs.vfat /dev/sdc1
+  654  sudo fdisk -l
+  655  cd ..
+  656  ls
+  657  rm -rf GSP1RMCPRFRER_TR_DVD/
+  658  sudo fdisk -l
+  659  mkfs.vfat /dev/sdc1
+  660  umount /dev/sdc1
+  661  umount /dev/sdc
+  662  mkfs.vfat /dev/sdc1
+  663  sudo fdisk -l
+  664  dd if=MK-V7-EYL-WINDOWS-10-Faz1-Faz2.iso of=/dev/sdc1 4M
+  665  dd if=MK-V7-EYL-WINDOWS-10-Faz1-Faz2.iso of=/dev/sdc1
+  666  sudo dd if=MK-V7-EYL-WINDOWS-10-Faz1-Faz2.iso of=/dev/sdc1
+  667  ping google.com
+  668  dd if=Pardus-ETAP-5.2-amd64.iso of=/dev/sdc1 4M
+  669  sudo dd if=Pardus-ETAP-5.2-amd64.iso of=/dev/sdc1 4M
+  670  sudo dd if=Pardus-ETAP-5.2-amd64.iso of=/dev/sdc1 bs=4M
+  671  wine MAKS_anahtarolustur.exe 
+  672  sudo apt install mono
+  673  wine MAKS_anahtarolustur.exe 
+  674  mono MAKS_anahtarolustur.exe 
+  675  ls -lna
+
+  676  sudo sh ./INSTALL.sh 
+  677  sudo chmod -R 777 hp3900-series_0.12
+  678  cd hp3900-series_0.12/
+  679  sudo sh ./INSTALL.sh 
+  680  sudo sh ./UPDATE.sh 
+  681  sudo sh ./install.sh 
+  682  sudo bash ./install.sh 
+  683  sudo apt install xsane
+  684  sudo apt update
+  685  sudo apt-get install mono-complete 
+  686  sudo apt install xdotool 
+  687  sudo apt-get install libappindicator3-0.1-cil-dev
+  688  mono RemoteMouse.exe 
+  689  mono LJPro_MFP_M127-M128_full_solution_15309.exe 
+  690  sudo chmod -r 777 LJPro_MFP_M127-M128_full_solution_15309.exe 
+  691  sudo chmod -R 777 LJPro_MFP_M127-M128_full_solution_15309.exe 
+  692  mono LJPro_MFP_M127-M128_full_solution_15309.exe 
+  693  mcs LJPro_MFP_M127-M128_full_solution_15309.exe 
+  694  wine LJPro_MFP_M127-M128_full_solution_15309.exe 
+  695  sudo shutdown  -h 14:50
+  696  history > 12.12.2018History 
