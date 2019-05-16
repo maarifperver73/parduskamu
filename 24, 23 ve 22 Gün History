@@ -1,0 +1,170 @@
+  732  sudo thunar
+  733  sudo apt install Q
+  734  sudo apt-cache search kubrick
+  735  sudo apt-cache search ofris
+  736  sudo thunar
+  737  ls
+  738  ls -lna
+  739  sudo su
+  740  wine 2018-tyt-ayt-tarih-oks-sb.exe 
+  741  mono 2018-tyt-ayt-tarih-oks-sb.exe 
+  742  sudo apt install kdeconnect 
+  743  lightdm
+  744  sudo lightdm
+  745  sudo lightdm-gtk-greeter 
+  746  sudo light-locker
+  747  sudo chmod -R 777 dafturn-ofris.sh 
+  748  sh ./dafturn-ofris.sh 
+  749  sudo chmod -R 777 dafturn-ofris.sh 
+  750  sh ./dafturn-ofris.sh 
+  751  sudo chmod -R 777 dafturn-ofris.sh 
+  752  sh ./dafturn-ofris.sh 
+  753  sudo chmod -R 777 dafturn-ofris.sh 
+  754  sh ./dafturn-ofris.sh 
+  755  ps aux  | grep pulseaudio
+  756  sudo nano /etc/
+  757  cd /etc/
+  758  ls -lna
+  759  sudo nano /etc/rccd
+  760  cd
+  761  cd /etc/init.d/
+  762  ls
+  763  cat rsync 
+  764  cat cd
+  765  cd
+  766  ls /
+  767  ls / |grep conf.d
+  768  ls / |grep co
+  769  ls / |grep locale
+  770  ls / |grep etc
+  771  sudo ls / |grep locale
+  772  sudo ls / |grep "locale"
+  773  sudo ls / |grep rc
+  774  sudo ls / |grep "rc"
+  775  sudo ls / |grep "start"
+  776  inxi -Sxx
+  777  sudo apt install inxi
+  778  inxi -Sxx
+  779  cd  /etc/rsyslog.d/
+  780  ls
+  781  ls -lna
+  782  sudo nano /etc/init.d/
+  783  cd /etc/init.d/
+  784  ls
+  785  cat rsync 
+  786  sudo apt install stardict
+  787  stardict 
+  788  sudo nautilus
+  789  sudo thunar
+  790  stardict 
+  791  sudo chmod -r 777 PySozluk-1.1.6/
+  792  sudo chmod -R 777 PySozluk-1.1.6/
+  793  sh ./pysozluk
+  794  cd Masaüstü/
+  795  cd PySozluk-1.1.6/
+  796  ls
+  797  sudo python pardus_setup.py 
+  798  sudo python3 pardus_setup.py 
+  799  pysozluk
+  800  sudo python3.5 pardus_setup.py 
+  801  man rsync
+  802  lsblk 
+  803  sudo fdisk -l
+  804  lsblk -f
+  805  mono Container.exe
+  806  wine Run.exe 
+  807  mono Run.exe 
+  808  wine Run.exe 
+  809  wine AutoPlay/
+  810  cd AutoPlay/
+  811  shutdown -h 16:00
+  812  fdik -l
+  813  sudo fdisk -l
+  814  blkid
+  815  sudo blkid
+  816  sudo fdisk -l
+  817  sudo mkfs.ntfs /dev/sdc1
+  818  ls
+  819  ls -lna
+  820  sudo chmod 777 5298-ECE2/
+  821  ls -lnah
+  822  ls -lna
+  823  sudo chmod +R 777 5298-ECE2/
+  824  sudo chmod -RR 777 5298-ECE2/
+  825  ls -lna
+  826  sudo chmod -R 777 5298-ECE2/
+  827  ls -lna
+  828  sudo chmod +w 5298-ECE2/
+  829  ls -lna
+  830  sudo thunar
+  831  du
+  832  lsusb
+  833  fdisk -l
+  834  sudo fdisk -l
+  835  lsusb
+  836  sudo fdisk -l
+  837  sudo apt install rufus
+  838  sudo nano /etc/crontab 
+  839  sudo chmod 111 zil.sh 
+  840  sh ./zil.sh 
+  841  sudo chmod 755 zil.sh 
+  842  sh ./zil.sh 
+  843  nano teneffus.sh
+  844  sh ./teneffus.sh 
+  845  nano teneffus.sh 
+  846  sh ./teneffus.sh 
+  847  nano teneffus.sh 
+  848  sh ./teneffus.sh 
+  849  nano teneffus.sh 
+  850  sh ./teneffus.sh 
+  851  nano teneffus.sh 
+  852  sh ./teneffus.sh 
+  853  nano teneffus.sh 
+  854  sh ./teneffus.sh 
+  855  nano teneffus.sh 
+  856  sh ./teneffus.sh 
+  857  exit
+  858  nano teneffus.sh 
+  859  ls
+  860  cd Masaüstü/
+  861  ls
+  862  nano teneffus.sh 
+  863  sh ./teneffus.sh 
+  864  vat update-etap.sh 
+  865  cat update-etap.sh 
+  866  sudo apt update
+  867  sudo apt upgrade
+  868  shutdown -r now
+  869  ls
+  870  sudo su
+  871  smb//192.168.1.199/Ortak
+  872  smb//192.168.1.199
+  873  ssh elcezeri@192.168.1.199
+  874  sudo nano /etc/apt/sources.list
+  875  sudo apt install vnc
+  876  sudo apt install vnc-java 
+  877  sudo apt install vncsnapshot 
+  878  vncviewer 
+  879  vncviewer 192.168.1.199
+  880  sudo apt install tigervnc-viewer 
+  881  vncviewer 192.168.1.199
+  882  sudo ether-wake ***********
+  883  sudo su
+  884  sudo apt install etherwake 
+  885  wakeonlan 
+  886  wakeonlan ***********
+  887  etherwake ***********
+  888  sudo etherwake ***********
+  889  sudo su
+  890  etherwake -D ***********
+  891  wakeonlan 00 ***********
+  892  wakeonlan -D ***********
+  893  vncviewer 192.168.1.199
+  894  wakeonlan -D ***********
+  895  wakeonlan ***********
+  896  vncviewer 192.168.1.199
+  897  wakeonlan ***********
+  898  wakeonlan -D ***********
+  899  sudo su
+  900  history >25.12.2018History
+
