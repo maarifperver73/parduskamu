@@ -1,0 +1,17 @@
+  715  sudo apt install youtube-dl 
+  716  sudo apt update
+  717  youtube-dl -F https://www.youtube.com/watch?v=ew0gUWL2T48
+  718  youtube-dl -F22 https://www.youtube.com/watch?v=ew0gUWL2T48
+  719  youtube-dl -f 22 https://www.youtube.com/watch?v=ew0gUWL2T48
+  720  sudo apt install ofris
+  721  sudo nano /etc/lightdm/lightdm-gtk-greeter.conf 
+  722  sudo nano /etc/lightdm/lightdm-gtk-greeter.conf ,
+  723  sudo nano /etc/lightdm/lightdm-gtk-greeter.conf 
+  724  sudo apt-cache search tor
+  725  sudo apt-cache search tor*
+  726  sudo apt-cache search "tor"
+  727  sh ./install.sh 
+  728  sudo shutdown -h 14:50
+  729  sudo apt install wine
+  730  wine Türk\ Dili\ ve\ Edebiyatı.exe 
+  731  history > 13.12.2018History 
