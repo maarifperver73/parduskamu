@@ -1,0 +1,37 @@
+
+  592  sudo chmod -R 777 GSP1RMCPRFRER_TR_DVD/
+  593  ls
+  594  cd GSP1RMCPRFRER_TR_DVD/
+  595  rm -rf *
+  596  sudo rm -rf *
+  597  fdisk -l
+  598  sudo fdisk -l
+  599  sudo mkfs.vfat -F32 /dev/sdc1
+  600  sudo mlabel -i /dev/sdc1 Etap
+  601  sudo mlabel -i /dev/sdc1 : :  Etap
+  602  sudo mlabel -i /dev/sdc1 =  Etap
+  603  history >03.12.2018History 
+  604  sudo chmod -R 777 4D52-D00F/
+  605  sudo mv 4D52-D00F/ Etap/
+  606  sudo mv 4D52-D00F/ /media/mebkurumsal/Etap
+  607  sudo fdisk -l
+  608  sudo ntfslabel  /dev/sdc1 Etap_imaj
+  609  sudo mkfs.ntfs 4D52-D00F/
+  610  sudo mkfs.ntfs /dev/sdc1
+  611  sudo fdisk -l
+  612  mount /dev/sdc1
+  613  sudo fdisk -l
+  614  mount /dev/sdc1
+  615  sudo mount /dev/sdc1
+  616  mount /dev/sdc1 /media/usb
+  617  sudo mount /dev/sdc1 /media/usb
+  618  sudo su
+  619  sudo mkfs.vfat /dev/sdc1
+  620  ls-lna
+  621  ls 
+  622  ls -ln
+  623  sudo apt install eta-usbregister 
+  624  eta-usbregister 
+  625  id
+  626  sudo su
+  627  history > 04.11.2018History 
