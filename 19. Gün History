@@ -1,0 +1,12 @@
+
+  628  ls
+  629  win10.vbox
+  630  play win10.vbox
+  631  sudo apt install smbclient 
+  632  cups
+  633  sudo apt update
+  634  sudo apt upgrade 
+  635  sudo xkill 
+  636  sudo xkill
+  637  cd /tmp && wget http://prdownloads.sourceforge.net/hplip/hplip-3.17.11.run
+  638  history > 05.12.2018History 
